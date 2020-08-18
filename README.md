@@ -1,4 +1,4 @@
-# [Employee Mangement System](https://github.com/sdemkovich/Employee-Tracker)
+# [Employee Management System](https://github.com/sdemkovich/Employee-Tracker)
 
 ## Description
 
