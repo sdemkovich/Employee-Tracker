@@ -35,9 +35,9 @@ The user is first presented with a series of choices about what action they woul
 * Action is executed based on answers.
 * Choose "Exit" to exit the program.
 
-<img src="./assets/start_page.png"/>  <img src="./assets/view_all_EE.png"/>  
+<img src="./assets/start_page.png"/> <img src="./assets/view_all_EE.png"/>  
 <br>
- <img src="./assets/view_all_dept.png"/>  <img src="./assets/view_all_roles.png"/>
+ <img src="./assets/view_all_dept.png"/> <img src="./assets/view_all_roles.png"/>
 
 ## Technologies
 * Node.js 
