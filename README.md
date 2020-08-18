@@ -1,4 +1,4 @@
-# [Employee Mangement System](https://github.com/sdemkovich/Employee-Tracker)
+# [Employee Management System](https://github.com/sdemkovich/Employee-Tracker)
 
 ## Description
 
@@ -35,11 +35,9 @@ The user is first presented with a series of choices about what action they woul
 * Action is executed based on answers.
 * Choose "Exit" to exit the program.
 
-<img src="./assets/start_page"/>
-<img src="./assets/view_all_EE"/>
-<img src="./assets/view_all_dept"/>
-<img src="./assets/view_all_roles"/>
-
+<img src="./assets/start_page.png"/>  <img src="./assets/view_all_EE.png"/>  
+<br>
+ <img src="./assets/view_all_dept.png"/>  <img src="./assets/view_all_roles.png"/>
 
 ## Technologies
 * Node.js 
